@@ -1,22 +1,22 @@
 {
-  "name": "face_recognition",
+  "name": "face_recognition_zenvia",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthonyreis/face_recognition.git"
+    "url": "git+https://github.com/anthonyreis/face-recognition-zenvia.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anthonyreis/face_recognition/issues"
+    "url": "https://github.com/anthonyreis/face-recognition-zenvia/issues"
   },
-  "homepage": "https://github.com/anthonyreis/face_recognition#readme",
+  "homepage": "https://github.com/anthonyreis/face-recognition-zenvia#readme",
   "dependencies": {
     "@zenvia/sdk": "^2.2.0",
     "aws-sdk": "^2.1044.0",
